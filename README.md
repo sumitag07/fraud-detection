@@ -1,5 +1,5 @@
-# Lendig Club Case Study
-We are tasked with helping the online credit lending company with risk analysis which
+# Lending Club Case Study
+We are tasked with helping the consumer finance company with risk analysis which
 will help company decide which applicant is likely to repay the loan and which applicant might default.
 
 ## Dataset:
@@ -19,7 +19,7 @@ its a categorical column with three unique values fully paid, charged-off (defau
 
 
 ## General Information
-- Performing Exploratory Data Ananlysis on the dataset belonging to the online loan company which contains the records of loan provided to the various customers in the past.
+- Performing Exploratory Data Ananlysis on the dataset belonging to the consumer finance company which contains the records of loan provided to the various customers in the past.
 - We are trying to identify the features that will help us in knowing which borrowers are likely to default and which are more likely to pay back the loan.
 - Dataset belonging to an online loan company conatining records of its past borrowers.
 
@@ -38,18 +38,11 @@ its a categorical column with three unique values fully paid, charged-off (defau
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This is our (Harshdeep and Sumit) small project in journey to explore the vast world of data science.
+- The dataset and study material are provided by UpGrad
+- This project of upgrad program [Case study](https://www.upgrad.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sumitag07 @harshdeep] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
